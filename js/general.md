@@ -47,10 +47,12 @@ console.log(Array.isArray(arr)); // true
 
 ### Working with number please these libraries
 [Article](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/#dont-use-built-in-number-for-sensitive-calculations)
- 
+
 - [decimal.js](https://mikemcl.github.io/decimal.js/)
 - [big.js](https://mikemcl.github.io/big.js/)
 
 
 
-(Articel link)[https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/?ref=dailydev]
+
+## Full Article link
+[Articel link](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/?ref=dailydev)
