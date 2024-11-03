@@ -2,8 +2,7 @@
 Easier ways to work with promise
 
 
-```
-javascript
+```javascript
 
 function fetchData(url) {
     const { promise, resolve, reject } = Promise.withResolvers();
@@ -36,8 +35,7 @@ function fetchData(url) {
 ## Promise cancel 
 In javascript don't have promise cancel function but we can throught the error on cancel method like below
 
-```
-javascript
+```javascript
 
 const cancellablePromise = () => {
     const { promise, resolve, reject } = Promise.withResolvers();
